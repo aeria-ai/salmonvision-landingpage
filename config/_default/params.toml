@@ -1,6 +1,6 @@
 #################### default parameters ################################
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
-favicon = "images/favicon.png"
+favicon = "images/favicon_salmon.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
 logo = "images/salmonlogo.jpg"
 logo_darkmode = "images/logo-darkmode.png"
@@ -38,8 +38,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "get a quote"
-link = "contact"
+label = "login"
+link = "www.app.salmonvision.org" # app.salmonvision.org
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
