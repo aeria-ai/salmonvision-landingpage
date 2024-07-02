@@ -1,9 +1,12 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Salmon Vision"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+To manage sustainable salmon fisheries in an era of rapid climate change, resource managers, First Nations, and local communities require in-season information on the number of salmon returning to their local rivers. Access to timely population monitoring data has long been challenged by the costs and logistical constraints of working in remote watersheds around the Pacific Rim, and by the time and resources required to review data and produce reliable estimates of salmon returns. Salmon Vision is a collaborative effort by the Pacific Salmon Foundation, Wild Salmon Center, Simon Fraser University computing sciences, and Aeria to develop and apply AI tools for automated salmon counting and species identification. Working with First Nations and resource management agencies, we are co-developing computer-vision models for automated analysis of video, sonar, and aerial drone survey data, to provide timely, reliable and user-friendly AI tools for salmon stock assessment. The Salmon Vision web app is the next step in this journey, providing local managers, First Nations, and community organizations with a platform for end-to-end AI supported workflow management, from data uploading and AI-powered analysis through data review to update count data, and video annotation for model retraining..
+
+We believe that by harnessing the power of AI for salmon monitoring and conservation, we can help power transformative changes for wild salmon and the communities that depend on them. Beginning in 2024, our systems are running in support of local and Indigenous communities across the north and central coast of British Columbia, providing real-time information on salmon returns to guide precautionary management of fisheries, providing continuous insights into migration conditions and climate stressors, and empowering communities at co-governance tables as advocates and stewards for their local wild salmon populations. Beginning in 2025, computer-vision tools for RGB video, sonar, and aerial drone surveys will be available to users around the world, with near-term plans in place to co-create additional computer-vision tools for conservation of aquatic and terrestrial ecosystems.
+
+Reach out to us if you’d like to chat about your project’s needs for remote monitoring systems and computer-vision assisted workflow.  
