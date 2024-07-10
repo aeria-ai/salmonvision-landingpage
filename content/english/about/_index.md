@@ -9,4 +9,19 @@ To manage sustainable salmon fisheries in an era of rapid climate change, resour
 
 We believe that by harnessing the power of AI for salmon monitoring and conservation, we can help power transformative changes for wild salmon and the communities that depend on them. Beginning in 2024, our systems are running in support of local and Indigenous communities across the north and central coast of British Columbia, providing real-time information on salmon returns to guide precautionary management of fisheries, providing continuous insights into migration conditions and climate stressors, and empowering communities at co-governance tables as advocates and stewards for their local wild salmon populations. Beginning in 2025, computer-vision tools for RGB video, sonar, and aerial drone surveys will be available to users around the world, with near-term plans in place to co-create additional computer-vision tools for conservation of aquatic and terrestrial ecosystems.
 
-Reach out to us if you’d like to chat about your project’s needs for remote monitoring systems and computer-vision assisted workflow.  
+Reach out to us if you’d like to chat about your project’s needs for remote monitoring systems and computer-vision assisted workflow.
+
+### Resources
+All of our computer-vision models, training data, and backend software for remote monitoring systems are documented on our GitHub page. Model code are freely available to the research community under a MIT open research license. Data and annotations are published under a creative commons license (BY-NC-SA 4.0), and are freely available for use in non-commercial applications.
+
+https://github.com/Salmon-Computer-Vision/salmon-computer-vision
+
+If you have any additional questions for our team about these resources, please feel free to contact us directly. 
+
+### Partners
+
+Partnership is foundational in our approach to developing and applying computer-vision solutions for salmon monitoring and stewardship. First Nations across the North and Central Coast of BC have contributed data and time to the development and training of computer-vision models, and are leaders on the ground in applying these tools for stewardship of wild salmon within their territories. We would specifically like to acknowledge the Gitanyow Fishery Authority, Skeena Fishery Commission, Heiltsuk Integrated Resource Management Department, Haida Fishery Program,  Kitasoo Xai’xais Stewardship Authority, Taku River Tlingit, Nuxalk Stewardship, Wuikinuxv Fishery Program, as well as DFO Stock Assessment Division, for their partnership in co-developing Salmon Vision AI. 
+
+### Funders
+
+![A beautiful landscape](images/landscape.jpg "Landscape")
