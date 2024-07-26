@@ -1,7 +1,7 @@
 ---
 title: "Salmon Vision"
 meta_title: "About"
-description: "this is meta description"
+description: "About Salmon Vision"
 draft: false
 ---
 
@@ -10,6 +10,7 @@ To manage sustainable salmon fisheries in an era of rapid climate change, resour
 We believe that by harnessing the power of AI for salmon monitoring and conservation, we can help power transformative changes for wild salmon and the communities that depend on them. Beginning in 2024, our systems are running in support of local and Indigenous communities across the north and central coast of British Columbia, providing real-time information on salmon returns to guide precautionary management of fisheries, providing continuous insights into migration conditions and climate stressors, and empowering communities at co-governance tables as advocates and stewards for their local wild salmon populations. Beginning in 2025, computer-vision tools for RGB video, sonar, and aerial drone surveys will be available to users around the world, with near-term plans in place to co-create additional computer-vision tools for conservation of aquatic and terrestrial ecosystems.
 
 Reach out to us if you’d like to chat about your project’s needs for remote monitoring systems and computer-vision assisted workflow.
+
 
 ### Resources
 All of our computer-vision models, training data, and backend software for remote monitoring systems are documented on our GitHub page. Model code are freely available to the research community under a MIT open research license. Data and annotations are published under a creative commons license (BY-NC-SA 4.0), and are freely available for use in non-commercial applications.
@@ -24,4 +25,12 @@ Partnership is foundational in our approach to developing and applying computer-
 
 ### Funders
 
-![A beautiful landscape](images/landscape.jpg "Landscape")
+
+![BC Salmon Restoration and Innovation Fund](images/partners/bc-salmon-restoration-and-innovation-fund.png "")
+![Fisheries and Oceans Canada](images/partners/fisheries-and-oceans-canada.png "")
+![First Nations Partners](images/partners/fn.png "")
+![Heiltsuk Nation](images/partners/heiltsuk-nation.png "")
+![Mitacs](images/partners/mitacs.png "")
+![NSERC](images/partners/nserc.png "")
+![RBC Foundation](images/partners/rbc.png "")
+![RBC Foundation](images/partners/skeena-fisheries.png "")
