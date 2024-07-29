@@ -3,7 +3,35 @@ title: "Salmon Vision"
 meta_title: "About"
 description: "About Salmon Vision"
 draft: false
+
+# Testimonials
+partners:
+  - name: "BC Salmon Restoration and Innovation Fund"
+    image: "/images/partners/bc-salmon-restoration-and-innovation-fund.png"
+
+  - name: "Fisheries and Oceans Canada"
+    image: "/images/partners/fisheries-and-oceans-canada.png"
+    
+  - name: "First Nations Partners"
+    image: "/images/partners/fn.png"
+    
+  - name: "Heiltsuk Nation"
+    image: "/images/partners/heiltsuk-nation.png"
+    
+  - name: "Mitacs"
+    image: "/images/partners/mitacs.png"
+    
+  - name: "NSERC"
+    image: "/images/partners/nserc.png"
+    
+  - name: "RBC Foundation"
+    image: "/images/partners/rbc.png"
+    
+  - name: "Skeena Fisheries"
+    image: "/images/partners/skeena-fisheries.png"
 ---
+
+
 
 To manage sustainable salmon fisheries in an era of rapid climate change, resource managers, First Nations, and local communities require in-season information on the number of salmon returning to their local rivers. Access to timely population monitoring data has long been challenged by the costs and logistical constraints of working in remote watersheds around the Pacific Rim, and by the time and resources required to review data and produce reliable estimates of salmon returns. Salmon Vision is a collaborative effort by the Pacific Salmon Foundation, Wild Salmon Center, Simon Fraser University computing sciences, and Aeria to develop and apply AI tools for automated salmon counting and species identification. Working with First Nations and resource management agencies, we are co-developing computer-vision models for automated analysis of video, sonar, and aerial drone survey data, to provide timely, reliable and user-friendly AI tools for salmon stock assessment. The Salmon Vision web app is the next step in this journey, providing local managers, First Nations, and community organizations with a platform for end-to-end AI supported workflow management, from data uploading and AI-powered analysis through data review to update count data, and video annotation for model retraining..
 
@@ -24,13 +52,3 @@ If you have any additional questions for our team about these resources, please 
 Partnership is foundational in our approach to developing and applying computer-vision solutions for salmon monitoring and stewardship. First Nations across the North and Central Coast of BC have contributed data and time to the development and training of computer-vision models, and are leaders on the ground in applying these tools for stewardship of wild salmon within their territories. We would specifically like to acknowledge the Gitanyow Fishery Authority, Skeena Fishery Commission, Heiltsuk Integrated Resource Management Department, Haida Fishery Program,  Kitasoo Xai’xais Stewardship Authority, Taku River Tlingit, Nuxalk Stewardship, Wuikinuxv Fishery Program, as well as DFO Stock Assessment Division, for their partnership in co-developing Salmon Vision AI. 
 
 ### Funders
-
-
-![BC Salmon Restoration and Innovation Fund](images/partners/bc-salmon-restoration-and-innovation-fund.png "")
-![Fisheries and Oceans Canada](images/partners/fisheries-and-oceans-canada.png "")
-![First Nations Partners](images/partners/fn.png "")
-![Heiltsuk Nation](images/partners/heiltsuk-nation.png "")
-![Mitacs](images/partners/mitacs.png "")
-![NSERC](images/partners/nserc.png "")
-![RBC Foundation](images/partners/rbc.png "")
-![RBC Foundation](images/partners/skeena-fisheries.png "")

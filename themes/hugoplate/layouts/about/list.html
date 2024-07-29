@@ -5,6 +5,15 @@
         <div class="md:col-10 lg:col-7">
           <h2 class="h3 mb-6">{{ .Title }}</h2>
           <div class="content">{{ .Content }}</div>
+          <div class="text-center">
+            {{ with .Params.partners }}
+            {{ range . }}
+            <div class="text-center ml-auto mr-auto mb-10 w-full">
+              <img src="{{ .image }}" alt="{{ .name }}" class="m-auto">
+            </div>
+            {{ end }}
+            {{ end }}
+          </div>
         </div>
       </div>
     </div>
