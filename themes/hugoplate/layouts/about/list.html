@@ -9,7 +9,7 @@
             {{ with .Params.partners }}
             {{ range . }}
             <div class="text-center ml-auto mr-auto mb-10 w-full">
-              <img src="{{ .image }}" alt="{{ .name }}" class="m-auto">
+              <img src="{{ .image }}" alt="{{ .name }}" class="m-auto {{ .class }}">
             </div>
             {{ end }}
             {{ end }}

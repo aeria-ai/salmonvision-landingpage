@@ -8,6 +8,7 @@ draft: false
 partners:
   - name: "BC Salmon Restoration and Innovation Fund"
     image: "/images/partners/bc-salmon-restoration-and-innovation-fund.png"
+    class: 'h-48'
 
   - name: "Fisheries and Oceans Canada"
     image: "/images/partners/fisheries-and-oceans-canada.png"
@@ -20,12 +21,14 @@ partners:
     
   - name: "Mitacs"
     image: "/images/partners/mitacs.png"
+    class: 'h-8'
     
   - name: "NSERC"
     image: "/images/partners/nserc.png"
     
   - name: "RBC Foundation"
     image: "/images/partners/rbc.png"
+    class: 'h-16'
     
   - name: "Skeena Fisheries"
     image: "/images/partners/skeena-fisheries.png"
